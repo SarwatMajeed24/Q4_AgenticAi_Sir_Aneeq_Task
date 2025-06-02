@@ -16,8 +16,6 @@
 * 🧩 Compatible with frameworks like **LangChain** and **Chainlit**
 
 
-## 📄 README.md (You Can Copy This)
-
 ````markdown
 # Panaversity AI Assistant 🤖
 
